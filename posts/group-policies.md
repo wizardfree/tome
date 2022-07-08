@@ -1,7 +1,7 @@
 ---
 title: "Common Windows Group Policies"
 date: 2022-04-01T15:31:31.204Z
-description: "A selection of common/useful Group Policies for Windows."
+description: "[Updated: 08/07/22] A selection of common/useful Group Policies for Windows."
 draft: false
 toc: true
 author: Joseph Fleet
@@ -55,3 +55,9 @@ User Configuration ⇾ Policies ⇾ Administrative Templates ⇾ Control Panel �
 ## **Disable Command Prompt Access**
 User Configuration ⇾ Policies ⇾ Administrative Templates ⇾ System ⇾ Select: Prevent access to the command prompt
 ![prohibit-cmd.png](/group-policy/prohibit-cmd.png)
+
+## ![newmove.gif](/newmove.gif) **Map Shared Network Drive**
+User Configuration ⇾ Preferences ⇾ Windows Settings ⇾ Drive Maps ⇾ Right Click: New > Mapped Drive
+
+![mapdrive1.png](/group-policy/mapdrive1.png)
+![mapdrive2.png](/group-policy/mapdrive2.png)
