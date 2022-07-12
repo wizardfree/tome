@@ -12,7 +12,7 @@ tags:
 - Imaging
 ---
 ## Introduction
-Today we explore the wild world of cloning[^1] and imaging[^2] using [Clonezilla](https://clonezilla.org/) an opensource disk imaging and cloning soltution, but first to clear up any confusion [Dolly the sheep](https://www.history.com/this-day-in-history/first-successful-cloning-of-a-mammal) is the first mammal to be succesfully cloned which is fitting for our subject matter.
+Today we explore the wild world of cloning[^1] and imaging[^2] using [Clonezilla](https://clonezilla.org/) an opensource disk imaging and cloning solution, but first to clear up any confusion [Dolly the sheep](https://www.history.com/this-day-in-history/first-successful-cloning-of-a-mammal) is the first mammal to be succesfully cloned which is fitting for our subject matter.
 ### How cloning feels:
 ![Spiderman points at himself](https://i.kym-cdn.com/entries/icons/mobile/000/023/397/C-658VsXoAo3ovC.jpg)
 
