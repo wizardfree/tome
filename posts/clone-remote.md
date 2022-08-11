@@ -2,7 +2,7 @@
 title: "🐑 Dolly the sheep approves this message"
 date: 2022-07-12T18:12:13+01:00
 description: "Using Clonezilla to image and clone OS installs using a remote file share for storage."
-draft: false
+draft: true
 toc: true
 author: Joseph Fleet
 slug: clone.node.remote

@@ -2,7 +2,7 @@
 title: "Windows Commands"
 date: 2022-03-31T14:43:37.949Z
 description: "Common Windows Commands."
-draft: false
+draft: true
 toc: true
 author: Joseph Fleet
 slug: sporadic.strunting.blunderbuss

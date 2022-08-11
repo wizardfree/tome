@@ -2,7 +2,7 @@
 title: "Windows Shortcuts"
 date: 2022-03-31T14:59:09.406Z
 description: "Common useful Windows Shortcuts."
-draft: false
+draft: true
 toc: false
 author: Joseph Fleet
 slug: unmonitored.duree.teloi
