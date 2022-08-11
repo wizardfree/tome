@@ -1,5 +1,5 @@
 ---
-title: "Posts Archive"
+title: "Archive"
 url: /archive/
 layout: archive
 hidden: true
