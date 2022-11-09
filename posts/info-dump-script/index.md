@@ -79,7 +79,7 @@ echo -e "${BGGREEN}|-----------------------------END----------------------------
 ```
 
 ## Screenshots.
-![Script_Dump_Scrot](/info-dump-script/dump_scrot.png)
+![hello](dump_scrot.webp)
 
 ## The why.
 ```bash

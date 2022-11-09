@@ -35,11 +35,11 @@ These 4 pairs are then used in either a **T568A** or **T568B** configuration.
 
 ### T568A
 
-![T568A Cabling Diagram](/structured-cabling/T568A.png)
+![T568A Cabling Diagram](T568A.webp)
 
 ### T568B
 
-![T568B Cabling Diagram](/structured-cabling/T568B.png)
+![T568B Cabling Diagram](T568B.webp)
 
 When to use each standard?
 
@@ -64,7 +64,7 @@ Tools required:
     - Some connectors have a through design allowing the wires to poke all the way through (before crimping).
 - Crimping tool
 
-![8P8C](/structured-cabling/8P8C.jpg)
+![8P8C](8P8C.webp)
 
 - Using a cutting tool to remove the outer plastic sheath.
     - You'll want to cut enough off the end to expose the wires to go into the connector and to account for trimming them flat.
@@ -74,16 +74,16 @@ Tools required:
 
 Pictured below is the 4 pairs of wires. In the background you can see a fiberous cord used to help remove the outer sheath.
 
-![All the wires](/structured-cabling/Cat5ePairs.jpg)
+![All the wires](Cat5ePairs.webp)
 
 - Carefuly insert the wires as a single block into the connector. Ensuring the ends go all the way to the top.
 - Happy with the order inside the block. Time to crimp.
 - Plug the connector into the crimping tool. And squeeze down on the tool.
     - A satisfying clicking can be heard as the plastic compresses and bites into the copper wire within.
 
-![Crimping](/structured-cabling/Crimpintime.jpg)
+![Crimping](Crimpintime.webp)
 
-Notice the exposed wires on the underside of the connector. Don't do this. Please use a [connecting boot](https://m.media-amazon.com/images/I/61NLI4ZnIwL._SL1100_.jpg).
+Notice the exposed wires on the underside of the connector. Don't do this. Please use a [connecting boot](https://m.media-amazon.com/images/I/61NLI4ZnIwL._SL1100_.webp).
 
 For my fellow visual learners. Here is a great video resource by [Tek Syndicate](https://www.youtube.com/c/teksyndicate) showing the process step-by-step.
 {{< youtube lullzS740wI >}}

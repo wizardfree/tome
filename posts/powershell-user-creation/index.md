@@ -69,8 +69,8 @@ if ($oucheck -eq "True") {
 
 ## Screenshots.
 
-![creation.gif](/powershell-user-creation/creation.gif)
-![accountlookup.gif](/powershell-user-creation/accountlookup.gif)
+![creation.gif](creation.webp)
+![accountlookup.gif](accountlookup.webp)
 
 ## The why.
 *Efficiency*
