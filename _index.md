@@ -1,17 +1,3 @@
-<!-- ```bash
- _________________________________________ 
-/ “Any sufficiently advanced technology   \
-| is indistinguishable from magic.        |
-\ --Arthur C. Clarke”                     /
- ----------------------------------------- 
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-``` -->
-
 #### Hello there 👋🏻, I'm Joseph Fleet. 
 
 IT Technician. Miniature Wargamer. Web Denizen.
