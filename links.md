@@ -13,6 +13,7 @@ If you run a personal page of your own I implore you to add a links page. By doi
 - [Webzone](/)
 - [LinkedIn](https://www.linkedin.com/in/josephsfleet/)
 - [GitHub](https://github.com/wizardfree)
+- [Credly](https://www.credly.com/users/joseph-fleet/badges)
 
 ### Other Blogs:
 - [Herman's Blog](https://herman.bearblog.dev/blog)
@@ -23,6 +24,7 @@ If you run a personal page of your own I implore you to add a links page. By doi
 ### Interesting Websites:
 - [98.css](https://jdan.github.io/98.css)
 - [autoregex](https://www.autoregex.xyz/)
+- [bestmotherfuckingwebsite](https://bestmotherfucking.website/)
 - [/g/'s based site list](https://sites.lainx.org/)
 - [LogicalIncrements](https://www.logicalincrements.com/)
 - [thispersondoesnotexist](https://www.thispersondoesnotexist.com/)
