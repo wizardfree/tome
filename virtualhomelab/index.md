@@ -30,6 +30,9 @@ Choose an appropriate name for the VM (Virtual Machine), in this case W19SRV.
 ![virtualbox2.png](virtualbox2.png)
 
 Allocate an adequate amount of memory to the VM.
+
+> 🧠
+> 
 > [RAM · 512 MB (2 GB for Server with Desktop Experience installation option)](https://docs.microsoft.com/en-us/windows-server/get-started/hardware-requirements)
 
 ![virtualbox3.png](virtualbox3.png)
@@ -203,6 +206,8 @@ On the review screen I've highlighted some important information which appears a
 2. Secondly the password for the domain administrator account will be the same as the local administrator account of the server. (If the local admin password is weak now might be good time to change it)
 
 Why is it important to have a DNS service running on our server well:
+> 🧠
+>
 > ...when a network user with an Active Directory user account logs in to an Active Directory domain, the DNS Client service queries the DNS server to locate a domain controller for the Active Directory domain... ([From the horses mouth](https://docs.microsoft.com/en-us/windows-server/networking/dns/dns-top##:~:text=when%20a%20network%20user%20with%20an%20Active%20Directory%20user%20account%20logs%20in%20to%20an%20Active%20Directory%20domain%2C%20the%20DNS%20Client%20service%20queries%20the%20DNS%20server%20to%20locate%20a%20domain%20controller%20for%20the%20Active%20Directory%20domain.))
 
 Click next.

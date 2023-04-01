@@ -20,5 +20,7 @@ Future plans for [gastropod🐌](https://github.com/wizardfree/gastropod) are to
 
 Accurate representation of me writing content for this site:
 
+![Animtion of a man moving like a slug](slug.webp "gif")
+
 [^1]: Not the slimy kind, the end part of the URL which points to a specific page or article e.g. example.com/**i-am-a-slug/** 
 

@@ -13,7 +13,11 @@ tags:
 
 Introduced by [Alexander Gramham Bell](https://worldwide.espacenet.com/patent/search/family/002313755/publication/US244426A?q=pn%3DUS244426A) back in the late 1800s. To solve the issue of interference on the phone lines. Twisted-pair cabling has come a long way since then. Modern advancements have led to speeds of [40 Gigabits](https://www.cablinginstall.com/cable/article/14037071/rm-reichle-demassari-ag-cat-81-cabling-system-delivers-up-to-40-gbe-for-lans-data-centers#:~:text=supports%20the%20fastest%20data%20transmission%20for%20local%20networks%20that%20structured%20copper%20cabling%20can%20achieve%20today%3A%20namely%20up%20to%2040%20Gigabit/s%20Ethernet.) over 30 meters!
 
+![Simpsons Phone animation from GIPHY](/img/simpsonsphone.webp "gif")
+
 But what is twisted-pair!? No, it's not a film by [Neil Breen](https://www.imdb.com/title/tt8196068/). It is instead the copper backbone of most LANs and offices worldwide. You most likely recognise it as an Ethernet cable. That thing with the funny connector that goes into the back of a device to wire it to the interwebs.
+
+![Pulp Fiction no internet animation from GIPHY](/img/vincent.webp "gif")
 
 Ethernet cabling from the outside all looks the same but on the inside it can be very different[^1]. There exist multiple categories of Ethernet cabling. Each category is an improvement on the last. 
 
@@ -35,11 +39,11 @@ These 4 pairs are then used in either a **T568A** or **T568B** configuration.
 
 ### T568A
 
-![T568A Cabling Diagram](T568A.webp)
+![T568A Cabling Diagram](T568A.webp "gif")
 
 ### T568B
 
-![T568B Cabling Diagram](T568B.webp)
+![T568B Cabling Diagram](T568B.webp "gif")
 
 When to use each standard?
 
@@ -53,16 +57,18 @@ Modern switches are smart enough to configure themselves to however pins are con
 
 As for which standard to use honestly as long as a single one of the standards is adhered to it [doesn't matter](https://www.truecable.com/blogs/cable-academy/t568a-vs-t568b).
 
+![Cat gnawing cable animation from GIPHY](/img/catgnaw.webp "gif")
+
 ## Example
 Shown below is the creation of a straight-through T568B cable.
 
 Tools required:
-- Cutting tool (wire cutters, sharp blade, or a pair of scissors will do)
-- Wire Strippers (if you're careful this could be done with a blade)
-- 8P8C connectors (pictured below)
-    - NOTE: different Cat ratings require different 8P8C connectors.
+- `Cutting tool` (wire cutters, sharp blade, or a pair of scissors will do)
+- `Wire Strippers` (if you're careful this could be done with a blade)
+- `8P8C connectors` (pictured below)
+    - NOTE: different Cat ratings require different `8P8C connectors`.
     - Some connectors have a through design allowing the wires to poke all the way through (before crimping).
-- Crimping tool
+- `Crimping tool`
 
 ![8P8C](8P8C.webp)
 

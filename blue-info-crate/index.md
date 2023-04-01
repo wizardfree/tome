@@ -19,6 +19,8 @@ tags:
 
 ## Intro
 
+> 📖
+>
 > Move bulk data to Azure quickly and cost-effectively. Data Box data transfer products help you move data to Azure when busy networks aren’t an option.
 
 What happens when a business generates 10's of Terabytes of data daily (or weekly). Yet has no reliable way of uploading this data to the Azure Cloud where it is: Secure[^1], and Available[^2].
@@ -32,21 +34,24 @@ An eloquent solution to a problem many of us don't think about.
 
 ---
 
-## Options:
+## Options
 
 Depending on how much data is to be transferred to the cloud. There are 3 physical and 1 logical options. Lets go over the physical options:
 
 1. The **Data Box Disk**: holds 8TB per disk with 5 available per order (max 35TB). Uses AES[^3] 128-bit encryption and a USB3/SATA interface.
-![The Data Box Disk](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/databox-disk)
+
+![The Data Box Disk](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/databox-disk "gif")
 
 2. The **Data Box**: holds 100TB per device. One per order.
 Uses AES 256-bit[^4] encryption and 1x1/10 Gbps RJ45, 2x10 Gbps SFP+ interface. The RJ45 is used for management of the box including initial setup. But can also be used for data transfer.
-![The Data Box](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/databox1)
+
+![The Data Box](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/databox1 "gif")
 
 ![The Data Box Reversed](https://learn.microsoft.com/en-us/azure/databox/media/data-box-overview/data-box-combined.png)
 
 3. The **Data Box Heavy**: named correctly as each one holds a Petabyte **(!)** of data. Weighing roughly 500lbs and coming with it's own trolley this is no joke. The same as the Data Box only one per order. Uses AES **256-bit** encryption, 2 X 1-GbE interfaces. Yet foregoes the 2x10 Gbps for 2x40 Gbps.
-![The Data Box Heavy](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/data-box-heavy)
+
+![The Data Box Heavy](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/data-box-heavy "gif")
 
 ![The Data Box Heavy Reversed](https://learn.microsoft.com/en-us/azure/databox/media/data-box-heavy-quickstart-portal/data-box-heavy-ports-cabled.png)
 
@@ -57,12 +62,14 @@ All data is securely wiped. According to the [National Institute of Standards an
 
 Along with this the actual enclosures and disks are tamper-resistant.
 
+![Cloud animation from GIPHY](/img/cloud.webp "gif")
+
 ---
 
-## Use cases: 
-### [Oceaneering Intl](https://www.oceaneering.com/)
+## Use cases
+### Oceaneering Intl
 
-Robotic workers generating 1TB a day of sensor data, entire ships generating 10TB a day.
+[Oceaneering Intl](https://www.oceaneering.com/) uses robotic workers which generate 1TB a day of sensor data, with entire ships generating 10TB a day.
 Miles from the shoreline. Data uplink using satellites is prone to interference. 
 Coupled with higher latency (compared to terrestrial offerings) and variable speeds.
 
@@ -72,8 +79,10 @@ For Oceaneering Intl this allows them to make decisions quicker. And their clien
 
 {{< youtube y0nGRHw3Zqc >}}
 
+![Big Fin Squid from the depths](/img/bigfin.webp "gif")
+
 ---
-## Further Reading:
+## Further Reading
 - [Microsoft Learn page for Data Boxes](https://learn.microsoft.com/en-us/azure/databox/)
 - [Azure Overview page for Data Boxes](https://azure.microsoft.com/en-gb/products/databox/data/#overview)
 

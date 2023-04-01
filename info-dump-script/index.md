@@ -15,7 +15,7 @@ tags:
 
 At a glance, system information written in a bash shell script.
 
-```bash
+```bash {linenos=table}
 #!/usr/bin/env bash
 
 ###################################################################
@@ -82,7 +82,7 @@ echo -e "${BGGREEN}|-----------------------------END----------------------------
 ![hello](dump_scrot.webp)
 
 ## The why.
-```bash
+```bash {linenos=table}
 ➜ whoami
 user
 
@@ -95,6 +95,8 @@ user
 ➜ echo "repeat ad nauseam"
 ```
 How many times upon accessing a system have the same few commands been run to assess what exactly you're working with. To help alleviate this issue, the infodump script was born.
+
+![Hackerman in Target animation from GIPHY](/img/hacker.webp "gif")
 
 ## The how.
 Honestly there's nothing fancy going on here, using only built-in commands (Ubuntu 22.04.1 used for package reference), the script will run through common commands outputting to the terminal window.

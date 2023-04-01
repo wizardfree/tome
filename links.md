@@ -7,6 +7,8 @@ layout: links
 
 Here are some links to where you can find me online. Also included links to other websites that I've found useful or interesting.
 
+![Welcome to the internet animation from GIPHY](/img/internet.webp "gif")
+
 If you run a personal page of your own I implore you to add a links page. By doing so we keep the original method of web discovery alive. Take back the web from the same 7 monolithic websites of the modern age.
 
 ### My Links:
