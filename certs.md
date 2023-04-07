@@ -1,7 +1,7 @@
 ---
 title: "Current Certifications 🏆"
 url: /certs/
-layout: certs
+layout: simple
 hidden: true
 ---
 
