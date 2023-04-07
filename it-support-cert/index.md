@@ -11,7 +11,11 @@ tags:
 
 > **tl:dr**: [The certificate]
 
-At the start of the year (**2021**) I undertook the [Google IT Support Specialization] offered by Google on the Coursera platform, being awarded a certificate of completion by early February the specialization consists of five sub-courses, each of which has graded work and exams which need to be passed in order to be awarded with a specialization certificate.
+At the start of the year (**2021**) I undertook the [Google IT Support Specialization] offered by Google on the Coursera platform. I achieved a certificate of completion by early February. 
+
+This specialization consists of five sub-courses. These sub-courses are taught using video-on-demand along with quizzes and the occassional "practical" test. 
+
+To be awarded with a specialization each sub-course must be completed by way of graded work and final exams.
 
 The five courses that make up the specialization are:
 
@@ -36,11 +40,16 @@ This course covers the most popular security threats (DoS, Malware, and Password
 The latter consists of adequate wireless encryption and an overview of Wireshark, for an absolute introductory foray into **practical** network security it's not bad.
 
 As outlined above, the topics covered across the courses touched on many areas of IT, from binary arithmetic to OSI network layers to soft skills. 
-Completing the course has given me a much firmer foundational knowledge of IT as much of what was covered I was aware of already or had covered already this is not a detriment however, as reinforcing this basic stuff gives a much stronger foundation for the more advanced stuff, as the old adage goes we walk before we may run. 
-Another unexpected but appreciated result of sticking with the courses to achieve the Certificate is a confidence in my own abilities when it comes to troubleshooting and the ability to learn new things efficiently, although perhaps this might just be the Google brainwashing taking hold.
 
-Overall, the course had some challenging moments (this could be due to my own folly however, as I will admit I seriously sped through some material), but the video explanations are adequate with plenty of additional reading and quizzes to ensure you've understood the content. 
-Closing thoughts: As a primer for anyone looking to spin into IT or grab themselves the CompTIA A+ (aren't they the *same* thing?) the Specialization is a great tool for exposing yourself to the technologies used every day, everywhere (alright maybe not everywhere but hey it's pretty damn close).
+Completing the course has given me a much firmer foundational knowledge of IT as much of what was covered I was aware of already or had covered already. This is not a detriment however, as reinforcing this basic stuff gives a much stronger foundation for the more advanced stuff later on. As the old adage goes; we walk before we may run. 
+
+Another unexpected but appreciated result of sticking with the courses to achieve the Certificate is a confidence in my own abilities when it comes to troubleshooting and the ability to learn new things efficiently.
+
+Although perhaps this might just be the Google brainwashing taking hold.
+
+Overall, the course had some challenging moments (this could be due to my own folly however, as I will admit to seriously speeding through some material), but the video explanations are adequate with plenty of additional reading and quizzes to ensure you've understood the content. 
+
+Closing thoughts: As a primer for anyone looking to spin into IT or grab themselves the CompTIA A+ (aren't they the *same* thing?) this Specialization is a great tool for exposing yourself to the technologies used every day, everywhere (alright maybe not everywhere but hey it's pretty damn close).
 
 An excerpt from the Specialization page on Coursera:
 

@@ -11,15 +11,17 @@ tags:
 - Networking
 ---
 
-Introduced by [Alexander Gramham Bell](https://worldwide.espacenet.com/patent/search/family/002313755/publication/US244426A?q=pn%3DUS244426A) back in the late 1800s. To solve the issue of interference on the phone lines. Twisted-pair cabling has come a long way since then. Modern advancements have led to speeds of [40 Gigabits](https://www.cablinginstall.com/cable/article/14037071/rm-reichle-demassari-ag-cat-81-cabling-system-delivers-up-to-40-gbe-for-lans-data-centers#:~:text=supports%20the%20fastest%20data%20transmission%20for%20local%20networks%20that%20structured%20copper%20cabling%20can%20achieve%20today%3A%20namely%20up%20to%2040%20Gigabit/s%20Ethernet.) over 30 meters!
+Introduced by [Alexander Gramham Bell](https://worldwide.espacenet.com/patent/search/family/002313755/publication/US244426A?q=pn%3DUS244426A) back in the late 1800s. To solve the issue of interference on the phone lines.
 
-![Simpsons Phone animation from GIPHY](/img/simpsonsphone.webp "gif")
+Twisted-pair cabling has come a long way since then. Modern advancements have led to speeds of [40 Gigabits](https://www.cablinginstall.com/cable/article/14037071/rm-reichle-demassari-ag-cat-81-cabling-system-delivers-up-to-40-gbe-for-lans-data-centers#:~:text=supports%20the%20fastest%20data%20transmission%20for%20local%20networks%20that%20structured%20copper%20cabling%20can%20achieve%20today%3A%20namely%20up%20to%2040%20Gigabit/s%20Ethernet.) over 30 meters!
 
-But what is twisted-pair!? No, it's not a film by [Neil Breen](https://www.imdb.com/title/tt8196068/). It is instead the copper backbone of most LANs and offices worldwide. You most likely recognise it as an Ethernet cable. That thing with the funny connector that goes into the back of a device to wire it to the interwebs.
+But what is twisted-pair!? No, it's not a film by [Neil Breen](https://www.imdb.com/title/tt8196068/). 
 
-![Pulp Fiction no internet animation from GIPHY](/img/vincent.webp "gif")
+It is instead the copper backbone of most LANs and offices worldwide. You most likely recognise it as an Ethernet cable. That thing with the funny connector that goes into the back of a device to wire it to the interwebs.
 
-Ethernet cabling from the outside all looks the same but on the inside it can be very different[^1]. There exist multiple categories of Ethernet cabling. Each category is an improvement on the last. 
+Ethernet cabling from the outside all looks the same but on the inside it can be very different[^1]. 
+
+There exist multiple categories of Ethernet cabling. Each category being an improvement on the last. 
 
 Commonly seen today are **Cat5e** and **Cat6a**.
 
@@ -39,11 +41,11 @@ These 4 pairs are then used in either a **T568A** or **T568B** configuration.
 
 ### T568A
 
-![T568A Cabling Diagram](T568A.webp "gif")
+[![T568A Cabling Diagram](T568A.webp)](T568A.webp)
 
 ### T568B
 
-![T568B Cabling Diagram](T568B.webp "gif")
+[![T568B Cabling Diagram](T568B.webp)](T568B.webp)
 
 When to use each standard?
 
@@ -56,8 +58,6 @@ Straight-through keeps things simple and has both ends of the wire terminate to 
 Modern switches are smart enough to configure themselves to however pins are configured (whether crossed or straight).
 
 As for which standard to use honestly as long as a single one of the standards is adhered to it [doesn't matter](https://www.truecable.com/blogs/cable-academy/t568a-vs-t568b).
-
-![Cat gnawing cable animation from GIPHY](/img/catgnaw.webp "gif")
 
 ## Example
 Shown below is the creation of a straight-through T568B cable.
@@ -91,7 +91,6 @@ Pictured below is the 4 pairs of wires. In the background you can see a fiberous
 
 Notice the exposed wires on the underside of the connector. Don't do this. Please use a [connecting boot](https://m.media-amazon.com/images/I/61NLI4ZnIwL._SL1100_.webp).
 
-For my fellow visual learners. Here is a great video resource by [Tek Syndicate](https://www.youtube.com/c/teksyndicate) showing the process step-by-step.
-{{< youtube lullzS740wI >}}
+For my fellow visual learners. Here is a great video resource by [Tek Syndicate](https://www.youtube.com/c/teksyndicate) showing the process step-by-step. [Here](https://youtube.com/v/lullzS740wI)
 
 [^1]: There exists unshielded and shielded twisted cabling. You might see shielded cabling in environments with lots of electronics. This shielding is to prevent [crosstalk](https://en.wikipedia.org/wiki/Crosstalk).
