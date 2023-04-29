@@ -89,7 +89,7 @@ Pictured below is the 4 pairs of wires. In the background you can see a fiberous
 
 ![Crimping](Crimpintime.webp)
 
-Notice the exposed wires on the underside of the connector. Don't do this. Please use a [connecting boot](https://m.media-amazon.com/images/I/61NLI4ZnIwL._SL1100_.webp).
+Notice the exposed wires on the underside of the connector. **Don't do this.** Please use a [connecting boot](https://m.media-amazon.com/images/I/71ZoXjDVBlL._AC_SL1500_.jpg).
 
 For my fellow visual learners. Here is a great video resource by [Tek Syndicate](https://www.youtube.com/c/teksyndicate) showing the process step-by-step. [Here](https://youtube.com/v/lullzS740wI)
 
