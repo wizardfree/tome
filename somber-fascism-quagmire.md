@@ -60,13 +60,6 @@ In this article, we will be discussing **five** (5) common mistakes made by thos
    **Don't** get stuck thinking that _you_ have to solve every single problem that crops up. This only damages the support process. Lean on your team, that's what they're there for.
 
 ## How to Avoid Making These Mistakes
-* Provide tips and best practices for junior helpdesk analysts to avoid making these common mistakes, such as:
-	+ Always ask for clarification on a support ticket
-	+ Follow up on all support tickets in a timely manner
-	+ Document all support tickets in a clear and concise manner
-	+ Not staying organized and maintaining a clean work space
-	+ Get comfortable with not knowing everything. You've been hired for your ability to solve problems not how much you've memorised. Use the tools that you have at your disposal to research and troubleshoot the issue.
-
 1. **Ask better questions**:
     
     Why? To provide accurate and helpful information to the customer. 
