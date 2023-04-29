@@ -37,29 +37,20 @@ By taking the data stored locally. Transferring said data onto a physical device
 Depending on how much data is to be transferred to the cloud. There are 3 physical and 1 logical options available. Lets go over the physical options:
 
 1. The **Data Box Disk**: 
-    
-    An enterprise-grade HDD enclosure which holds 8TB per disk. 
+    - An enterprise-grade HDD enclosure which holds 8TB per disk. 
     With five (5), for a maximum of 35TB, available per order. 
-    
-    Uses AES[^3] 128-bit encryption and uses a USB3 or SATA interface.
+    - Uses AES[^3] 128-bit encryption and uses a USB3 or SATA interface.
 
 2. The **Data Box**: 
-
-    Holds 100TB per device. One per order.
-
-    Uses AES 256-bit[^4] encryption. Comes equipped with 1x1/10 Gbps RJ45, 2x10 Gbps SFP+ interfaces. The RJ45 is used for management of the box including initial setup. But can also be used for data transfer. 
-    
-    Think of this like a rugged NAS box.
+    - Holds 100TB per device. One per order.
+    - Uses AES 256-bit[^4] encryption. Comes equipped with 1x1/10 Gbps RJ45, 2x10 Gbps SFP+ interfaces. The RJ45 is used for management of the box including initial setup. But can also be used for data transfer. 
+    - Think of this like a rugged NAS box.
 
 3. The **Data Box Heavy**: 
-
-    Named correctly as each one holds a Petabyte **(!)** of data.
-    
-    Weighing roughly 500lbs and coming with it's own trolley this is no joke. The same as the Data Box only one per order. 
-    
-    Uses AES **256-bit** encryption, 2 X 1-GbE interfaces. Yet foregoes the 2x10 Gbps for 2x40 Gbps. A storage server on wheels. 
-    
-    For when your data needs that bellhop treatment.
+    - Named correctly as each one holds a Petabyte **(!)** of data.
+    - Weighing roughly 500lbs and coming with it's own trolley this is no joke. The same as the Data Box only one per order. 
+    - Uses AES **256-bit** encryption, 2 X 1-GbE interfaces. Yet foregoes the 2x10 Gbps for 2x40 Gbps. A storage server on wheels. 
+    - For when your data needs that bellhop treatment.
 
 ---
 
