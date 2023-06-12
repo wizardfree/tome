@@ -41,11 +41,11 @@ These 4 pairs are then used in either a **T568A** or **T568B** configuration.
 
 ### T568A
 
-[![T568A Cabling Diagram](T568A.webp)](T568A.webp)
+![T568A Cabling Diagram](T568A.webp)
 
 ### T568B
 
-[![T568B Cabling Diagram](T568B.webp)](T568B.webp)
+![T568B Cabling Diagram](T568B.webp)
 
 When to use each standard?
 

@@ -5,9 +5,13 @@ layout: simple
 hidden: true
 ---
 
-Here are some links to where you can find me online. Also included links to other websites that I've found useful or interesting.
+Here are some links to where you can find me online. Also included are links to other websites that I've found useful or interesting.
 
-If you run a personal page of your own I implore you to add a links page. By doing so we keep the original method of web discovery alive. Take back the web from the same 7 monolithic websites of the modern age.
+If you run a personal page of your own I implore you to add a links page. 
+
+By doing so we preserve the original method of discovering content on the Internet. 
+
+Break free from the dominance of the handful of content-reguratating websites that have come to define the online experience and work towards a more diverse and free World Wide Web.
 
 ### My Links:
 - [Webzone](/)

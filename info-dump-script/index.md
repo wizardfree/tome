@@ -82,7 +82,7 @@ echo -e "${BGGREEN}|-----------------------------END----------------------------
 ![hello](dump_scrot.webp)
 
 ## The why.
-```bash {linenos=table}
+```bash
 ➜ whoami
 user
 
