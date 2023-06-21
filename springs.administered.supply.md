@@ -1,5 +1,5 @@
 ---
-title: "Core Azure components"
+title: "Azure: Regions and Networking"
 date: 2023-06-20T18:08:15+01:00
 description: "A brief introduction to Azure architecture and services as they pertain to the AZ900 certification."
 draft: false
@@ -11,7 +11,7 @@ tags:
 - Cloud
 ---
 
-In this article we continue covering the foundational knowledge of Azure. [The previous post](https://wizardinthe.cloud/doing.tests.incurred/).
+As we continue covering the foundational knowledge of Azure. This post will cover some core components of Azure including Resources, regions, and networking. [See the previous post](https://wizardinthe.cloud/doing.tests.incurred/).
 
 ### Core architectural components of Azure
 
