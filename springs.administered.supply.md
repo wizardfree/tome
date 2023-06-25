@@ -195,4 +195,4 @@ Multiple ExpressRoute circuits can be connected together using [**ExpressRoute G
 
 Stayed tune for the next post where we cover Azure Storage Services, File Management, and Azure Identity Management.
 
-[^1]: https://www.theregister.com/2022/05/02/cloud_market_share_q1_2022/
+[^1]: [Cloud Market Share Q1 2022](https://www.theregister.com/2022/05/02/cloud_market_share_q1_2022/)
