@@ -1,8 +1,6 @@
 ---
 title: "Links 🔗"
 url: /links/
-layout: simple
-hidden: true
 ---
 
 Here are some links to where you can find me online. Also included are links to other websites that I've found useful or interesting.
