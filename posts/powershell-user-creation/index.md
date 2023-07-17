@@ -16,7 +16,7 @@ tags:
 
 -->[Gist link](https://gist.github.com/wizardfree/ed81eb44e85c8303c5ff92904e8353a2) <--
 
-```Powershell {linenos=table}
+```Powershell
 $PASSWORD = "Password1"
 $password = ConvertTo-SecureString $PASSWORD -AsPlainText -Force
 
