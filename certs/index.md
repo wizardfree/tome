@@ -1,6 +1,7 @@
 ---
 title: "Current Certifications 🏆"
 url: /certs/
+hidden: true
 ---
 
 | Issuing Body     | Certification Title          | Date Awarded   |                                                                         Link |
