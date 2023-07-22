@@ -126,7 +126,7 @@ All that the network connectivity test in this script is doing is ascertaining a
 The core of the script is "at a glance system info" `free` does this well, displaying combined system memory with basic usage.
 #### The script hangs
 This is down to the `find` command searching the home directory of the system. Depending on the number of files and the speed of the block device being accessed, this could take a few seconds to a few minutes, worth it in my opinion to see any particularly egregious files within the /home directory.
-##### Why /home and not /?
+#### Why /home and not /?
 If the script hanging for a few seconds to a minute scanning the home directory rustles your jimmies, scanning the **entire** drive would only serve to exasperate the issue[^3].
 
 ## Conclusion.
