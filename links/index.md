@@ -1,5 +1,5 @@
 ---
-title: "Links 🔗"
+title: "Links"
 url: /links/
 hidden: true
 ---

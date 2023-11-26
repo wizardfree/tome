@@ -3,7 +3,6 @@ title: "Create a Windows Domain Homelab in Virtualbox"
 description: "The Step-by-Step process to installing and configuring a Windows Server domain in a private network using Virtualbox."
 date: 2022-03-31T14:59:09.406Z
 draft: false
-toc: true
 author: Joseph Fleet
 slug: windows.home.lab
 tags:

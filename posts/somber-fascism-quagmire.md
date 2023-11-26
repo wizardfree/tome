@@ -3,7 +3,6 @@ title: "Mistakes Made by Junior Helpdesk Analysts*"
 date: 2023-04-29T17:11:55+01:00
 description: "Mistakes made by those new to IT"
 draft: false
-toc: true
 author: Joseph Fleet
 slug: somber.fascism.quagmire
 tags:
