@@ -7,9 +7,9 @@ toc: false
 author: Joseph Fleet
 slug: promotes.involve.letting
 tags:
+- Snippet
+- News
 - Networking
-img: "images/computer_network.webp"
-imgAlt: "Stable diffused image of a Computer Network"
 ---
 
 ## Introduction

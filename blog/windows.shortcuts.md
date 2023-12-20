@@ -7,6 +7,7 @@ toc: false
 author: Joseph Fleet
 slug: unmonitored.duree.teloi
 tags:
+- Snippet
 - Windows
 ---
 | Action                                      | Shortcut                                                         |

@@ -6,6 +6,7 @@ draft: false
 author: Joseph Fleet
 slug: blue.info.crate
 tags:
+- Snippet
 - TIL
 - Hardware
 - Networking

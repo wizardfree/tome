@@ -1,5 +1,5 @@
-[IT Technician](https://www.linkedin.com/in/josephsfleet/). Miniature Wargamer. Web Denizen.
+I'm **Joseph**, an [IT Technician](https://www.linkedin.com/in/josephsfleet/), with experience in various technologies such as Windows, Linux, Networking, and cloud-based platforms like Microsoft Azure. 
 
-Welcome to my corner of the internet.
+In my personal life, I'm an avid [miniature wargamer](/hobby), peruser of the Internet, and beginner cook.
 
-Check out the [archive](/archive/) or see posts sorted by [tags](/tags/).
+Welcome to my corner of the Internet.

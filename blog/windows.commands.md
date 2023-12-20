@@ -6,6 +6,7 @@ draft: false
 author: Joseph Fleet
 slug: sporadic.strunting.blunderbuss
 tags:
+- Snippet
 - Windows
 ---
 
