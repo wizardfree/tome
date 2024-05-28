@@ -1,7 +1,5 @@
-Hi there! 👋🏻 I'm **Joseph**, currently employed as a [Junior Helpdesk Analyst](https://www.linkedin.com/in/josephsfleet/).
+I'm **Joseph**, an [IT Technician](https://www.linkedin.com/in/josephsfleet/), with experience in various technologies such as Windows, Linux, Networking, and cloud-based platforms like Microsoft Azure. 
 
-On this website, you'll find articles about my work in IT, updates on my hobby projects, as well as things of [general interest](/) from around the web.
-
-Check out my [ramblings](/blog) or see which [Warhammer 40k](/hobby) faction I'm currently working on.
+In my personal life, I'm an avid [miniature wargamer](/hobby), peruser of the Internet, and beginner cook.
 
 Welcome to my corner of the Internet.

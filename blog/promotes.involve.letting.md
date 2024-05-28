@@ -23,11 +23,8 @@ But what does it mean?
 ### Definition
 The term "air gap". Refers to the physical distance between the computer or network and the Internet.
 
-{{< box info >}}
-**To define further what a network air gap is:**
-
-A security measure that involves physically disconnecting a computer or network from the Internet to prevent unauthorised access. It creates an isolated environment. Where data can is stored and processed without fear of cyber attacks.
-{{< /box >}}
+To define further what a network air gap is: 
+> A security measure that involves physically disconnecting a computer or network from the Internet to prevent unauthorised access. It creates an isolated environment. Where data can is stored and processed without fear of cyber attacks.
 
 Or think of it as the disconnecting or lack of routing. From a trusted network (internal) to a untrusted network (the Internet).
 
