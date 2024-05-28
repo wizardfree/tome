@@ -9,7 +9,7 @@ tags:
 - Development
 ---
 
-> **tl;dr**: custom script which generates three word random strings are used for the article slugs on the site [🐌](https://github.com/wizardfree/gastropod)
+**tl;dr**: custom script which generates three word random strings are used for the article slugs on the site [🐌](https://github.com/wizardfree/gastropod)
 
 At some point of browsing this website, you may have noticed that the articles have odd looking slugs[^1] attached to them (this very article has a pretty odd one!). 
 

@@ -11,9 +11,13 @@ Current armies in my collection.
 
 Fluff generated using the [1d4chan Creation Tables](https://web.archive.org/web/20201112005953/https://1d4chan.org/wiki/Category:Creation_Tables).
 
-> This page is a work-in-progress.
+{{< box info >}}
+This page is a work-in-progress.
+{{< /box >}}
 
 ### Adeptus Mechanicus
+
+{{< image-gallery gallery_dir="/minis/admech" >}}
 
 | **World Building Question**               | **Fluff**                            |
 |---------------------------------------|----------------------------------|
@@ -47,6 +51,8 @@ Fluff generated using the [1d4chan Creation Tables](https://web.archive.org/web/
 
 ### Sisters of Battle
 
+{{< image-gallery gallery_dir="/minis/sob" >}}
+
 | **Word Building Question**  | **Fluff**                                                                                                       |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------|
 | Order Originator            | Order of the Argent Shroud                                                                                      |
@@ -68,6 +74,8 @@ Fluff generated using the [1d4chan Creation Tables](https://web.archive.org/web/
 ---
 
 ### Genestealer Cult
+
+{{< image-gallery gallery_dir="/minis/gsc" >}}
 
 | **World Building Question**              | **Fluff**                                                              |
 |------------------------------------------|------------------------------------------------------------------------|
@@ -102,4 +110,4 @@ Fluff generated using the [1d4chan Creation Tables](https://web.archive.org/web/
 
 ## Middle-Earth Strategy Battle Game
 
-**TBA**
+{{< image-gallery gallery_dir="/minis/lotr" >}}

@@ -7,7 +7,8 @@ hidden: true
 
 # Tech
 
-![Tux Ripping components out of a computer case](/images/tux_computer.webp)
+![Tux Ripping components out of a computer case](/geocities/tux_computer_dig_md_clr.webp)
+{.reaction}
 
 What I am using currently:
 
@@ -15,7 +16,7 @@ What I am using currently:
 
 | **Component**        | **Current**                     |
 |------------------|-----------------------------|
-| Operating System | Manjaro Linux 23.1.0        |
+| Operating System | Manjaro Linux 24.0.0        |
 | CPU              | AMD Ryzen 7 2700X @ 4.2GHz  |
 | RAM              | 32Gib Quad-Channel          |
 | Motherboard      | Gigabyte B450 AORUS M       |
@@ -23,7 +24,7 @@ What I am using currently:
 
 ## NAS
 
-Dell Poweredge T110 II running [TrueNAS Scale](https://www.truenas.com/truenas-scale/) **22.12.4.2**
+Dell Poweredge T110 II running [TrueNAS Scale](https://www.truenas.com/truenas-scale/) **Dragonfish-24.04.0**
 
 RAIDZ1 of 3 x Seagate IronWolf 4TB drives ( Usable Capacity: 7.14 TiB with 1 redundant drive )
 

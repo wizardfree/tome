@@ -20,9 +20,9 @@ tags:
 
 ## Intro
 
-> 📖
->
-> Move bulk data to Azure quickly and cost-effectively. Data Box data transfer products help you move data to Azure when busy networks aren’t an option.
+{{< box info >}}
+Move bulk data to Azure quickly and cost-effectively. Data Box data transfer products help you move data to Azure when busy networks aren’t an option.
+{{< /box >}}
 
 What happens when a business generates 10's of Terabytes of data daily (or weekly). Yet has no reliable way of uploading this data to the Azure Cloud where it is: Secure[^1], and Available[^2].
 
@@ -71,6 +71,8 @@ Coupled with higher latency (compared to terrestrial offerings) and variable spe
 This means a 6-7 month wait between the data being collected and it being in front of the people who need to see it. By offloading the data through Azure Data Boxes the collected data is uploaded and available in a fraction of the time.
 
 For Oceaneering Intl this allows them to make decisions quicker. And their clients receive meaningful, relevant data. Video [here](https://youtube.com/v/y0nGRHw3Zqc).
+
+{{< youtube id=y0nGRHw3Zqc loading=lazy >}}
 
 ---
 ## Further Reading

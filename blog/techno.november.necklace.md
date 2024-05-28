@@ -1,5 +1,6 @@
 ---
 title: "Giving a slug a new coat of slime"
+subtitle: "slug"
 date: 2023-05-08T11:48:25+01:00
 description: "Rewrite of the gastropod project."
 draft: false

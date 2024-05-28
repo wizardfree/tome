@@ -11,10 +11,8 @@ tags:
 ---
 
 ## *ipconfig*
-> 📖
->
-> Displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings.
 
+Displays all current TCP/IP network configuration values and refreshes Dynamic Host Configuration Protocol (DHCP) and Domain Name System (DNS) settings.
 
 ```cmd
 C: ipconfig /? : Displays help output
@@ -33,10 +31,8 @@ C:\ipconfig /renew [adapter] : Renews DHCP configuration for specified adapter.
 ```
 
 ## *ping*
-> 📖
->
-> Verifies IP-level connectivity to another TCP/IP computer by sending Internet Control Message Protocol (ICMP) echo Request messages.
-{.is-info}
+
+Verifies IP-level connectivity to another TCP/IP computer by sending Internet Control Message Protocol (ICMP) echo Request messages.
 
 ```cmd
 C:\ping /? : Displays help output
@@ -49,9 +45,8 @@ C:\ping foobar.uk /n # : Sends specified number of ICMP packets.
 ```
 
 ## *netstat*
-> 📖
->
-> Displays active TCP connections, ports on which the computer is listening, Ethernet statistics, the IP routing table, IPv4 statistics, and IPv6 statistics.
+
+Displays active TCP connections, ports on which the computer is listening, Ethernet statistics, the IP routing table, IPv4 statistics, and IPv6 statistics.
 
 ```cmd
 C:\netstat /a : Displays all active connections w/ TCP/UDP port numbers.
@@ -64,9 +59,8 @@ C:\netstat /o : Shows the PID (Process IDentifier) which is making the connectio
 ```
 
 ## *tracert*
-> 📖
->
-> This diagnostic tool determines the path taken to a destination by sending Internet Control Message Protocol (ICMP) echo Request or ICMPv6 messages to the destination with incrementally increasing time to live (TTL) field values.
+
+This diagnostic tool determines the path taken to a destination by sending Internet Control Message Protocol (ICMP) echo Request or ICMPv6 messages to the destination with incrementally increasing time to live (TTL) field values.
 
 ```cmd
 C:\tracert foobar.uk : Traces the path to the specified domain.
@@ -74,9 +68,8 @@ C:\tracert -d foobar.uk : Traces the path to the specified domain w/o resolving 
 ```
 
 ## *systeminfo*
-> 📖
->
-> Displays detailed configuration information about a computer and its operating system, including operating system configuration, security information, product ID, and hardware properties (such as RAM, disk space, and network cards).
+
+Displays detailed configuration information about a computer and its operating system, including operating system configuration, security information, product ID, and hardware properties (such as RAM, disk space, and network cards).
 
 ```cmd
 C:\systeminfo : Displays system info.
@@ -87,9 +80,8 @@ C:\systeminfo -u <domain>\<user> -p <password> : Runs the command using the cred
 ```
 
 ## *sfc*
-> 📖
->
-> Scans and verifies the integrity of all protected system files and replaces incorrect versions with correct versions.
+
+Scans and verifies the integrity of all protected system files and replaces incorrect versions with correct versions.
 
 ```cmd
 C:\sfc /scannow : Scans the integrity of all protected system files and attempts to repair files.
@@ -98,10 +90,9 @@ C:\sfc /verifyonly : Scans but does not attempt repairs.
 ```
 
 ## *taskkill*
-> 📖
->
-> Ends one or more tasks or processes.
-> Replaces the *kill* command.
+
+Ends one or more tasks or processes.
+Replaces the *kill* command.
 
 ```cmd
 C:\taskkill /im <program_name> : Ends tasks which match the specified program name.
@@ -112,18 +103,16 @@ C:\taskkill ... /f : Forcefully kill task.
 ```
 
 ## *cls*
-> 📖
->
-> Clears the Command Prompt window.
+
+Clears the Command Prompt window.
 
 ```cmd
 C:\cls : Similair to BASH `clear` command.
 ```
 
 ## *gpresult*
-> 📖
->
-> Displays the Resultant Set of Policy [^1] (RSoP) information for a remote user and computer.
+
+Displays the Resultant Set of Policy [^1] (RSoP) information for a remote user and computer.
 
 ```cmd
 C:\gpresult /r : Displays RSoP information for local computer.
