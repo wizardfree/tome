@@ -79,7 +79,8 @@ echo -e "${BGGREEN}|-----------------------------END----------------------------
 ```
 
 ## Screenshots.
-![hello](dump_scrot.webp)
+
+{{< figure src="dump_scrot.webp" alt="Screenshot of a Linux Terminal" title="Screenshot of a Linux terminal showing the output of the script." link="dump_scrot.webp" >}}
 
 ## The why.
 ```bash
