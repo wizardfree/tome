@@ -9,7 +9,7 @@ tags:
 - Training
 ---
 
-> **tl:dr**: [The certificate]
+**tl:dr**: [The certificate]
 
 At the start of the year (**2021**) I undertook the [Google IT Support Specialization] offered by Google on the Coursera platform. I achieved a certificate of completion by early February. 
 
