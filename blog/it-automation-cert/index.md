@@ -10,7 +10,7 @@ tags:
 - Python
 ---
 
-**tl;dr**: [The certificate]
+> **tl;dr**: [The certificate]
 
 Taking up the mornings of the past weeks has been the [Google IT Automation with Python Specialization] offered by Coursera, being awarded a certificate of completion earlier today (*July 4th 2021*). 
 

@@ -10,13 +10,6 @@ tags:
 - Snippet
 - Windows
 ---
-
-{{< box info >}}
-
-A collection of useful keyboard shortcuts used on the Windows Operating System.
-
-{{< /box >}}
-
 | Action                                      | Shortcut                                                         |
 |---------------------------------------------|------------------------------------------------------------------|
 | Show/hide Desktop                           | `⊞ Win` + `d`                                  |
