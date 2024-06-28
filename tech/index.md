@@ -5,12 +5,8 @@ menu: main
 hidden: true
 ---
 
-# Tech
-
 ![Tux Ripping components out of a computer case](/geocities/tux_computer_dig_md_clr.webp)
 {.reaction}
-
-What I am using currently:
 
 ## Battlestation
 

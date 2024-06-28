@@ -56,7 +56,9 @@ There are actually a [few types](https://simplicable.com/IT/air-gap) of network 
 These include:
 
 1. the Physical Air Gap - This involves physically disconnecting a computer or network from the internet using hardware such as firewalls, routers, and switches. This type of air gap is the most effective way to prevent data breaches.
+
 2. the Logical Air Gap - This involves implementing software-based security measures such as Intrusion Detection Systems (IDS) and Access Control Lists (ACLs) to isolate a computer or network from the internet. While less effective than physical air gaps, logical air gaps can be more cost-effective and easier to implement in smaller organizations.
+
 3. the Hybrid Air Gap - This involves combining both physical and logical air gap measures to create a comprehensive security solution. For example, an organization may use a combination of hardware-based firewalls and software-based IDS to protect against cyber threats.
 
 To maintain the air gap once put in place. It requires regular security audits. Which are conducted to identify any vulnerabilities in the system.
