@@ -39,7 +39,7 @@ So far, the experience has been excellent. The setup was straightforward and too
 
 ### Benefits from the move ?
 
-Well on the frontend you may have noticed new styling for the webzone. This is directly correlated to the move but I felt it was a good chance to further improve on the webzone styling.
+Well on the frontend you may have noticed new styling for the webzone. This isn't directly correlated to the move but I felt it was a good chance to further improve on the webzone styling.
 
 On the backend the NGINX configuration has been changed to use more modern versions of TLS, improving security. [301 redirects](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/301) have been put in place if trying to hit the webzone on port 80 or on the server IP address.
 
