@@ -12,7 +12,7 @@ hidden: true
 
 | **Component**        | **Current**                     |
 |------------------|-----------------------------|
-| Operating System | Manjaro Linux 24.0.0        |
+| Operating System | Manjaro Linux 24.0.2        |
 | CPU              | AMD Ryzen 7 2700X @ 4.2GHz  |
 | RAM              | 32Gib Quad-Channel          |
 | Motherboard      | Gigabyte B450 AORUS M       |
@@ -24,6 +24,12 @@ Dell Poweredge T110 II running [TrueNAS Scale](https://www.truenas.com/truenas-s
 
 RAIDZ1 of 3 x Seagate IronWolf 4TB drives ( Usable Capacity: 7.14 TiB with 1 redundant drive )
 
+## Pi Hole
+
+[Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/) running Ubuntu **24.04** *LTS*. Using the ticked blocklists from [firebog.net](https://v.firebog.net/hosts/lists.php?type=tick).
+
+`914,919` blocked domains and counting !
+
 ## Webzone
 
-VPS hosted by [hostworld](https://hostworld.uk/). Running Ubuntu **24.04** *LTS*. Web stack is **nginx**, HTML / CSS compiled using [hugo](https://gohugo.io) and the [hugo-bearblog](https://github.com/janraasch/hugo-bearblog/) theme.
+VPS hosted by [hostinger](https://www.hostinger.co.uk/). Running Ubuntu **24.04** *LTS*. Web stack is **nginx**, HTML / CSS compiled using [hugo](https://gohugo.io).
