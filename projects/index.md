@@ -12,7 +12,7 @@ hidden: true
 
 #### Understanding Customer Churn: Insights and Solutions for Retention in the Banking Industry
 
-[![anonymous.bank.churn.webp](anonymous.bank.churn.webp)](anonymous.bank.churn)
+[![Dashboard Preview](anonymous.bank.churn/Dashboard+Preview.webp)](anonymous.bank.churn)
 
 Discover the key reasons why thousands of customers left a multinational bank, despite having good credit scores and long-standing relationships. 
 

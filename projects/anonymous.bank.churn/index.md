@@ -12,7 +12,7 @@ tags:
 - Power BI
 ---
 
-![anonymous.bank.churn.webp](Dashboard Preview.webp)
+![Dashboard Preview](Dashboard+Preview.webp)
 
 ## Project Overview:
 
