@@ -10,6 +10,20 @@ hidden: true
 
 ### Power Bi
 
+#### Understanding Customer Churn: Insights and Solutions for Retention in the Banking Industry
+
+[![anonymous.bank.churn.webp](anonymous.bank.churn.webp)](anonymous.bank.churn)
+
+Discover the key reasons why thousands of customers left a multinational bank, despite having good credit scores and long-standing relationships. 
+
+This Power BI report delves deep into customer demographics, product engagement, and complaint satisfaction. Revealing critical insights into attrition trends.
+
+Using data from Kaggle, some data cleaning in Power Query, and some DAX wizardry.
+
+With actionable strategies for improving retention, this analysis provides a roadmap to keeping high-value customers engaged.
+
+[**Read the write-up.**](anonymous.bank.churn)
+
 #### Bigfoot Sightings Report
 
 {{< iframe "https://app.powerbi.com/view?r=eyJrIjoiODk2ODk2NzItODIzNy00NTNhLWEzMGYtZGEyMjI4YzgxNTdhIiwidCI6Ijc3MTZiNzAzLWNhYzItNGE2NC1hMGY1LTg4OTg4NTE3MGM1OCJ9&embedImagePlaceholder=true&pageName=d8c95c9fdc6770d8004a" >}}
