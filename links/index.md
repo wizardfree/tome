@@ -1,7 +1,5 @@
 ---
 title: "links"
-url: /links/
-menu: main
 hidden: true
 ---
 

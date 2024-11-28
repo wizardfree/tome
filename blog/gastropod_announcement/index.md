@@ -4,6 +4,7 @@ date: 2021-07-01T16:35:53+01:00
 draft: false
 author: Joseph Fleet
 slug: culture.philomathical.nondecorated
+type: "post"
 tags:
 - Python
 - Development

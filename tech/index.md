@@ -1,7 +1,5 @@
 ---
 title: "tech"
-url: /tech/
-menu: main
 hidden: true
 ---
 

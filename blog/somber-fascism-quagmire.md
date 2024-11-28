@@ -5,6 +5,7 @@ description: "Mistakes made by those new to IT"
 draft: false
 author: Joseph Fleet
 slug: somber.fascism.quagmire
+type: "post"
 tags:
 - Career
 - Advice

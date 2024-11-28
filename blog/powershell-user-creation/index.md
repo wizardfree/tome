@@ -5,6 +5,8 @@ description: "Creating users automagically using PowerShell."
 draft: false
 author: Joseph Fleet
 slug: powershell.user.creation
+type: "post"
+showTableOfContents: true
 tags:
 - Scripting
 - Powershell

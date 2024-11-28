@@ -6,6 +6,7 @@ draft: false
 toc: false
 author: Joseph Fleet
 slug: techno.november.necklace
+type: "post"
 tags:
 - Python
 - Development

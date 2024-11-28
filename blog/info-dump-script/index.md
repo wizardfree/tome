@@ -6,6 +6,7 @@ draft: false
 toc: false
 author: Joseph Fleet
 slug: info.dump.script
+type: "post"
 tags:
 - Linux
 - Scripting

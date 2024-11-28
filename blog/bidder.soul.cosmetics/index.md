@@ -6,6 +6,7 @@ draft: false
 toc: false
 author: Joseph Fleet
 slug: bidder.soul.cosmetics
+type: "post"
 tags:
 - news
 - webzone
