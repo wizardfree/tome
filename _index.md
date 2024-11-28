@@ -4,8 +4,6 @@ On this website, you'll find articles about my work in IT, updates on my hobby p
 
 Check out my [ramblings](/blog) or see which [Warhammer 40k](/hobby) faction I'm currently working on.
 
-{{< box >}}
 Check out the new [projects](/projects) section.
-{{< /box >}}
 
 Welcome to my corner of the Internet.

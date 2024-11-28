@@ -1,4 +1,0 @@
----
-layout: list
-hidden: true
----
