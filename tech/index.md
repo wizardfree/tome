@@ -4,7 +4,6 @@ hidden: true
 ---
 
 ![Tux Ripping components out of a computer case](/geocities/tux_computer_dig_md_clr.webp)
-{.reaction}
 
 ## Battlestation
 
